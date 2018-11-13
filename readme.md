@@ -14,7 +14,8 @@ c) left a block region for creating entrance for other players/characters in my 
 
 2) A Waterpool
 
-# Scrennshot
+
+# Screenshot
 stage
 
 ![Stage](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Stage.bmp)
@@ -30,6 +31,6 @@ Waterpool view - 2
 
 More Waterpool using structure template : structure spawner
 
-![Waterpool view - 2](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/more%20waterpools.bmp)
+![more Waterpool](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/more%20waterpools.bmp)
 
 This is all What I have created Hope you will like it 
