@@ -11,6 +11,19 @@ Also add a picture of the structure to this [README](README.md) file.
 ### Well Entrance
 ![Well Entrance](https://github.com/Terasology/Mineshafts/raw/master/preview/WellEntrance.jpg)
 
+### Stage
+![Stage](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Stage.png)
+
+### Waterpool
+![Waterpool](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Waterpool.png)
+
+### Waterpool View - 2
+![Waterpool view-2](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Waterpool%20view-2.png)
+
+### More Waterpool using Structure Spawner
+![More Waterpool](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/MoreWaterpools.png)
+
+
 # This is for my GCI Task (I) - Structure Templates.
 
 I have created Two new and awsome Structures!
@@ -31,18 +44,4 @@ If Terasology would use my structures then the stage would be used for Dance per
 performing Rituals and even for fighting!
 Waterpool will be used from simple bath to Holy Bath!
 
-## Screenshot
-
-### Stage
-![Stage](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Stage.png)
-
-### Waterpool
-![Waterpool](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Waterpool.png)
-
-### Waterpool View - 2
-![Waterpool view-2](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/Waterpool%20view-2.png)
-
-### More Waterpool using Structure Spawner
-![More Waterpool](https://github.com/tech45/AdditionalStructureTemplates/blob/master/preview/MoreWaterpools.png)
-
-Hope you will Like it
+hope you liked it
