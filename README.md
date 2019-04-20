@@ -59,3 +59,9 @@ Finally, create a PR to submit your creation here.
 
 ### Waterpool
 ![Waterpool](preview/Waterpool.png)
+
+### Swimming Pool
+![Swimming Pool](preview/Swimmingpool.png)
+
+### Fallout Shelter
+![Fallout Shelter](preview/FalloutShelter.png)
