@@ -52,19 +52,23 @@ Finally, create a PR to submit your creation here.
 
 ### Roman Arch
 
-![Roman Arch](preview/romanArch.png)
+![Roman Arch](preview/romanArch.PNG)
 
 ### Roman DomeRoof
 
-![Roman Dome Roof](preview/romanDomeRoof.png)
+![Roman Dome Roof](preview/romanDomeRoof.PNG)
+
+![Roman Dome Roof](preview/romanDomeRoof2.PNG)
+
+![Roman Dome Roof](preview/romanDomeRoof3.PNG)
 
 ### Roman Pillar
 
-![Roman Pillar](preview/romanPillar.png)
+![Roman Pillar](preview/romanPillar.PNG)
 
 ### Roman Pillar 2
 
-![Roman Pillar 2](preview/romanPillar2.png)
+![Roman Pillar 2](preview/romanPillar2.PNG)
 
 ### Stage
 ![Stage](preview/Stage.png)
