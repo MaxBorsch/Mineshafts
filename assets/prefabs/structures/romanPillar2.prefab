@@ -1,0 +1,20 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+        { "blockType": "CoreBlocks:CobbleStone", "region": { "min": [1, 1, 1], "size": [8, 1, 8]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [2, 2, 2], "size": [6, 1, 6]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [4, 3, 3], "size": [2, 1, 4]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [3, 3, 4], "size": [4, 1, 2]}},
+        { "blockType": "CoreBlocks:Brick", "region": { "min": [3, 4, 5], "size": [1, 10, 1]}},
+        { "blockType": "CoreBlocks:Brick", "region": { "min": [3, 4, 4], "size": [1, 10, 1]}},
+        { "blockType": "CoreBlocks:Brick", "region": { "min": [4, 4, 3], "size": [2, 10, 4]}},
+        { "blockType": "CoreBlocks:Brick", "region": { "min": [6, 4, 4], "size": [1, 10, 2]}},
+        { "blockType": "CoreBlocks:CobbleStone", "region": { "min": [1, 14, 1], "size": [8, 1, 8]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [2, 13, 2], "size": [6, 1, 6]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [4, 12, 3], "size": [2, 1, 4]}},
+        { "blockType": "StructuralResources:StoneBlocksDark", "region": { "min": [3, 12, 4], "size": [4, 1, 2]}}
+]
+}
+}
