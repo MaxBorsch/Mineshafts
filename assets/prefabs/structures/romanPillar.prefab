@@ -1,0 +1,16 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+        { "blockType": "CoreBlocks:Stone", "region": { "min": [1, 1, 1], "size": [8, 1, 8]}},
+        { "blockType": "CoreBlocks:Stone", "region": { "min": [2, 2, 2], "size": [6, 1, 6]}},
+        { "blockType": "StructuralResources:Pillar", "region": { "min": [3, 3, 5], "size": [1, 12, 1]}},
+        { "blockType": "StructuralResources:Pillar", "region": { "min": [3, 3, 4], "size": [1, 12, 1]}},
+        { "blockType": "StructuralResources:Pillar", "region": { "min": [4, 3, 3], "size": [2, 12, 4]}},
+        { "blockType": "StructuralResources:Pillar", "region": { "min": [6, 3, 4], "size": [1, 12, 2]}},
+        { "blockType": "CoreBlocks:Stone", "region": { "min": [1, 14, 1], "size": [8, 1, 8]}},
+        { "blockType": "CoreBlocks:Stone", "region": { "min": [2, 13, 2], "size": [6, 1, 6]}},
+]
+}
+}
