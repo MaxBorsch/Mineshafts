@@ -1,8 +1,8 @@
 
 {
     "basedOn": "CoreAssets:rock",
-    "displayName": "Pillar Middle",
+    "displayName": "Obelisk Tip Stone",
     "tile": "StructuralResources:StoneBlocks",
-    "shape":"StructuralResources:pillar"
+    "shape":"StructuralResources:ObeliskPillarTip"
 
 }

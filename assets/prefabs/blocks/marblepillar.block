@@ -1,8 +1,8 @@
 
 {
     "basedOn": "CoreAssets:rock",
-    "displayName": "Pillar Middle",
-    "tile": "StructuralResources:StoneBlocks",
+    "displayName": "Pillar Marble",
+    "tile": "StructuralResources:Marble",
     "shape":"StructuralResources:pillar"
 
 }
