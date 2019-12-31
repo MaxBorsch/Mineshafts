@@ -1,0 +1,6 @@
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Pillar Marble",
+    "tile": "StructuralResources:Marble",
+    "shape":"StructuralResources:pillar"
+}

@@ -1,0 +1,6 @@
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Marble Obelisk Base",
+    "tile": "StructuralResources:Marble",
+    "shape":"StructuralResources:ObeliskBase"
+}

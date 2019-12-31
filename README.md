@@ -50,6 +50,19 @@ Finally, create a PR to submit your creation here.
 ### Mountain Entrance
 ![Mountain Entrance](preview/MountainEntrance.jpg)
 
+
+### Roman Marble Obelisk
+![Roman Marble Obelisk](preview/RomanObeliskMarble.PNG)
+
+### Roman Stone Obelisk
+![Roman Stone Obelisk](preview/RomanObeliskStone.PNG)
+
+### Roman Stone Pillar
+![Roman Stone Pillar](preview/RomanPillar.PNG)
+
+### Roman Marble Pillar
+![Roman Marble Pillar](preview/RomanPillarMarble.PNG)
+
 ### Stage
 ![Stage](preview/Stage.png)
 
