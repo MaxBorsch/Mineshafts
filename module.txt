@@ -7,7 +7,8 @@
     "dependencies" : [
     	{"id": "Core", "minVersion": "2.1.1-SNAPSHOT"},
     	{"id": "StructureTemplates", "minVersion": "0.3.0-SNAPSHOT"},
-    	{"id": "Fences", "minVersion": "0.1.1-SNAPSHOT"}
+    	{"id": "Fences", "minVersion": "0.1.1-SNAPSHOT"},
+        {"id": "StructuralResources", "minVersion": "0.1.1-SNAPSHOT"}
     ],
     "serverSideOnly" : false
 }
