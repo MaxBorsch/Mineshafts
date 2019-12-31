@@ -54,10 +54,17 @@ Finally, create a PR to submit your creation here.
 
 ![Roman Pillar](preview/RomanPillar.PNG)
 
-### Roman Dome Roof
+### Roman Marble Pillar
 
-![Roman Dome Roof](preview/RomanDomeRoof.PNG)
+![Roman Pillar Marble](preview/RomanPillarMarble.PNG)
 
+### Roman Marble Obelisk
+
+![Roman Obelisk Marble](preview/RomanObeliskMarble.PNG)
+
+### Roman Stone Obelisk
+
+![Roman Obelisk Stone](preview/RomanObeliskStone.PNG)
 
 ### Stage
 ![Stage](preview/Stage.png)
