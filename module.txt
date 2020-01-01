@@ -4,14 +4,13 @@
     "author" : "",
     "displayName" : "AdditionalStructureTemplates",
     "description" : "A collection of various structure templates.",
-    "dependencies" : 
-	[
-    	{"id": "Core", "minVersion": "2.1.1-SNAPSHOT"},
-    	{"id": "CoreAssets", "minVersion": "1.0.1"},
-    	{"id": "CoreBlocks", "minVersion": "1.0.1"},
-    	{"id": "StructureTemplates", "minVersion": "0.3.0-SNAPSHOT"},
-    	{"id": "Fences", "minVersion": "0.1.1-SNAPSHOT"},
-    	{"id": "StructuralResources", "minVersion": "2.0.0-SNAPSHOT"}
+    "dependencies" : [
+        {"id": "Core", "minVersion": "2.1.1-SNAPSHOT"},
+        {"id": "CoreAssets", "minVersion": "1.0.1"},
+        {"id": "CoreBlocks", "minVersion": "1.0.1"},
+        {"id": "StructureTemplates", "minVersion": "0.3.0-SNAPSHOT"},
+        {"id": "Fences", "minVersion": "0.1.1-SNAPSHOT"},
+        {"id": "StructuralResources", "minVersion": "2.0.0-SNAPSHOT"}
     ],
     "serverSideOnly" : false
 }
