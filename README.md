@@ -50,6 +50,8 @@ Finally, create a PR to submit your creation here.
 ### Mountain Entrance
 ![Mountain Entrance](preview/MountainEntrance.jpg)
 
+### Roman Brick Arch
+![Roman Brick Arch](preview/RomanArch.png)
 
 ### Roman Marble Obelisk
 ![Roman Marble Obelisk](preview/RomanObeliskMarble.PNG)
