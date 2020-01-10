@@ -1,0 +1,11 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+        { "blockType": "AdditionalStructureTemplates:pillarBottom", "region": { "min": [1, 1, 1], "size": [1, 1, 1]}},
+        { "blockType": "AdditionalStructureTemplates:marblePillar", "region": { "min": [1, 2, 1], "size": [1, 12, 1]}},
+        { "blockType": "AdditionalStructureTemplates:pillarTop", "region": { "min": [1, 13, 1], "size": [1, 1, 1]}}
+        ]
+    }
+}

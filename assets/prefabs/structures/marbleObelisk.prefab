@@ -1,0 +1,11 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+        { "blockType": "AdditionalStructureTemplates:obeliskBase", "region": { "min": [1, 1, 1], "size": [1, 1, 1]}},
+        { "blockType": "AdditionalStructureTemplates:obeliskMiddle", "region": { "min": [1, 2, 1], "size": [1, 12, 1]}},
+        { "blockType": "AdditionalStructureTemplates:obeliskTop", "region": { "min": [1, 13, 1], "size": [1, 1, 1]}}
+        ]
+    }
+}
