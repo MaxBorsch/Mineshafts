@@ -50,6 +50,9 @@ Finally, create a PR to submit your creation here.
 ### Mountain Entrance
 ![Mountain Entrance](preview/MountainEntrance.jpg)
 
+### Roman Stone Arch
+![Roman Stone Arch](preview/RomanArch.png)
+
 ### Roman Villa
 ![Roman Villa](preview/RomanVilla.png)
 
